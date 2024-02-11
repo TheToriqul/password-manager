@@ -1,4 +1,4 @@
- **# Simple Password Manager**
+# Simple Password Manager
 
 **Securely store and manage your passwords using encryption.**
 
